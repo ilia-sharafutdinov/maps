@@ -755,7 +755,7 @@
   </ary>
  </rec>
  <date>summer 1783</date>
- <s>main_2</s>
+ <s>main</s>
  <s>global_map</s>
  <ary type="VICTORY_CONDITION_OPTIONS">
   <xml_include path="victory_conditions/united_states.xml"/>
